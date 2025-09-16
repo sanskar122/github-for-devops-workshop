@@ -15,6 +15,8 @@ git restore testing.py
 clear
 git status
 
+niceeeeeeeeeeeeeeeeeeeeegit status
+
 git remote add origin https://github.com/LondheShubham153/github-for-devops-workshop.git
 git remote -v
 git status
