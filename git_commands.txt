@@ -4,7 +4,7 @@ git add .
 git status
 clear
 git status
-git commit -m "added testing files"
+git commit -m "added testing files jai hind"
 clear
 git status
 rm testing.py
